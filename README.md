@@ -6,7 +6,7 @@
 
 Hey, I'm Aneela 👋
 
-I'm a Business Analytics grad student at DePaul University finishing up my M.S. in June 2026, and I'm making the jump into AI/ML analytics roles. I've spent 6+ years in marketing and data analytics — tracking campaigns, segmenting audiences, building dashboards — and now I'm going deeper: building real ML pipelines, training models, and working with NLP.
+I'm a Business Analytics grad student at DePaul University finishing up my M.S. in June 2026, and I'm making the jump into AI/ML analytics roles. I've spent 6+ years in marketing and data analytics (tracking campaigns, segmenting audiences, building dashboards) and now I'm going deeper: building real ML pipelines, training models, and working with NLP.
 
 I learn best by building things I actually care about. Which is why one of my projects is a Harry Potter knowledge graph that uses BERT and a BART transformer to extract character relationships from Wikipedia. No regrets.
 
@@ -30,7 +30,7 @@ I learn best by building things I actually care about. Which is why one of my pr
 
 **[⚡ Wizarding Knowledge Graph](https://github.com/aneelaveldi09/wizarding-knowledge-graph)** &nbsp;·&nbsp; [Live app](https://wizarding-knowledge-graph.streamlit.app)
 
-Built an end-to-end NLP pipeline that reads 50 real Wikipedia articles about Harry Potter, runs them through `dslim/bert-base-NER` for entity extraction and `Babelscape/rebel-large` (BART seq2seq) for relation extraction, then renders the full character relationship graph in an interactive Streamlit dashboard. Every edge in the graph was found by the models — nothing hardcoded.
+Built an end-to-end NLP pipeline that reads 50 real Wikipedia articles about Harry Potter, runs them through `dslim/bert-base-NER` for entity extraction and `Babelscape/rebel-large` (BART seq2seq) for relation extraction, then renders the full character relationship graph in an interactive Streamlit dashboard. Every edge in the graph was found by the models, nothing hardcoded.
 
 `BERT` `REBEL` `NLP` `NetworkX` `Streamlit` `Cytoscape.js`
 
@@ -44,7 +44,7 @@ ML framework for measuring real influencer campaign ROI using actual Instagram d
 
 ---
 
-**[🏷️ Brand Equity Classification — Morningstar](https://github.com/aneelaveldi09)**
+**[🏷️ Brand Equity Classification (Morningstar)](https://github.com/aneelaveldi09)**
 
 Capstone project with Morningstar: binary classification model predicting brand investment viability using real financial data. Compared Logistic Regression, Random Forest, and k-NN across precision, recall, F1, and ROC-AUC. Presented findings directly to the industry partner.
 
@@ -54,7 +54,7 @@ Capstone project with Morningstar: binary classification model predicting brand 
 
 **Background**
 
-Before grad school I spent 5 years at Randstad doing marketing analytics — A/B testing, audience segmentation, campaign performance, funnel analysis. Hit 200% of business targets one quarter. Before that, ISB (Indian School of Business) on the admissions and enrollment analytics side.
+Before grad school I spent 5 years at Randstad doing marketing analytics: A/B testing, audience segmentation, campaign performance, funnel analysis. Hit 200% of business targets one quarter. Before that, ISB (Indian School of Business) on the admissions and enrollment analytics side.
 
 Now I'm at DePaul's College of Law building dashboards, running event analytics, and finishing my M.S. while building ML projects on the side.
 
