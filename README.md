@@ -6,7 +6,7 @@
 
 Hey, I'm Aneela 👋
 
-I'm a Business Analytics grad student at DePaul University finishing up my M.S. in June 2026, and I'm making the jump into AI/ML analytics roles. I've spent 6+ years in marketing and data analytics (tracking campaigns, segmenting audiences, building dashboards) and now I'm going deeper: building real ML pipelines, training models, and working with NLP.
+I just graduated from DePaul University with my M.S. in Business Analytics (June 2026), and I'm making the jump into AI/ML analytics roles. I've spent 6+ years in marketing and data analytics (tracking campaigns, segmenting audiences, building dashboards) and now I'm going deeper: building real ML pipelines, training models, and working with NLP.
 
 I learn best by building things I actually care about. Which is why one of my projects is a Harry Potter knowledge graph that uses BERT and a BART transformer to extract character relationships from Wikipedia. No regrets.
 
