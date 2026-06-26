@@ -6,9 +6,9 @@
 
 Hey, I'm Aneela 👋
 
-I just graduated from DePaul University with my M.S. in Business Analytics (June 2026), and I'm making the jump into AI/ML analytics roles. I've spent 6+ years in marketing and data analytics (tracking campaigns, segmenting audiences, building dashboards) and now I'm going deeper: building real ML pipelines, training models, and working with NLP.
+I just graduated from DePaul University with my M.S. in Business Analytics (June 2026), and I'm making the jump into AI/ML analytics roles. I've spent 6+ years in marketing and data analytics (tracking campaigns, segmenting audiences, building dashboards) and now I'm going deeper: building real ML pipelines, training models, working with NLP, and shipping AI agents from scratch.
 
-I learn best by building things I actually care about. Which is why one of my projects is a Harry Potter knowledge graph that uses BERT and a BART transformer to extract character relationships from Wikipedia. No regrets.
+My latest project is a RAG agent that answers marketing analytics questions by actually reading arXiv research papers before responding. Before that, I built a Harry Potter knowledge graph using BERT and a BART transformer. I learn best by building things I actually care about.
 
 ---
 
@@ -22,11 +22,20 @@ I learn best by building things I actually care about. Which is why one of my pr
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-0769AD?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
 **Projects**
+
+**[◆ Marketing Analytics RAG Agent](https://github.com/aneelaveldi09/marketing-analytics-agent)** &nbsp;·&nbsp; [Live app](https://marketing-analytics-agent.streamlit.app)
+
+My first AI agent. Ask it any marketing analytics question and it retrieves context from 467 chunks of Wikipedia articles and real arXiv research papers before generating an answer with Grok-3. Streaming responses, semantic search with FAISS, relevance-scored source cards, and follow-up question generation.
+
+`RAG` `Grok-3` `FAISS` `sentence-transformers` `arXiv` `Streamlit`
+
+---
 
 **[⚡ Wizarding Knowledge Graph](https://github.com/aneelaveldi09/wizarding-knowledge-graph)** &nbsp;·&nbsp; [Live app](https://wizarding-knowledge-graph.streamlit.app)
 
